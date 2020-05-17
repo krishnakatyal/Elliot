@@ -8,7 +8,7 @@ Phishing is the fraudulent attempt to obtain sensitive information such as usern
 
 ``` sudo apt update ```</br>
 ```sudo apt install git```</br>
- ``` https://github.com/krishnakatyal/elliot.git``` </br>
+ ``` https://github.com/krishnakatyal/Elliot.git``` </br>
   ``` cd elliot ```</br> 
  **Run the elliot.sh**</br>
  ```./elliot.sh```
