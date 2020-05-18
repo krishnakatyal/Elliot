@@ -11,7 +11,8 @@ Phishing is the fraudulent attempt to obtain sensitive information such as usern
 </br>
 </br>
  ``` git clone https://github.com/krishnakatyal/Elliot.git``` </br></br>
-  ``` cd elliot ```</br> 
+  ``` cd elliot ```</br> </br>
+ ``` chmod u+x elliot.sh```</br></br>
  **Run the elliot.sh**</br>
  ```./elliot.sh```
  
