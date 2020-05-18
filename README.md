@@ -6,9 +6,11 @@ Phishing is the fraudulent attempt to obtain sensitive information such as usern
 
 ### INSTALL
 
-``` sudo apt update ```</br>
-```sudo apt install git```</br>
- ``` https://github.com/krishnakatyal/Elliot.git``` </br>
+``` sudo apt update ```</br></br>
+```sudo apt install git```
+</br>
+</br>
+ ``` git clone https://github.com/krishnakatyal/Elliot.git``` </br></br>
   ``` cd elliot ```</br> 
  **Run the elliot.sh**</br>
  ```./elliot.sh```
