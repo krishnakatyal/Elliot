@@ -8,6 +8,8 @@ Phishing is the fraudulent attempt to obtain sensitive information such as usern
 ### INSTALL
 
 ``` sudo apt update ```</br></br>
+
+```sudo apt install git curl php openssh -y ```
 ```sudo apt install git```
 </br>
 </br>
