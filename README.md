@@ -21,11 +21,10 @@ Phishing is the fraudulent attempt to obtain sensitive information such as usern
  
 ![88](https://user-images.githubusercontent.com/37455387/82131105-64107700-97ef-11ea-9f93-2cfa93211631.PNG) 
 
-#### Select the turnrlling  option between
+#### Select the tunelling  option between
 - SERVEO
-- NGROK 
 - Localhost 
--LOCALHOSTRUN 
+- LOCALHOSTRUN 
 ### Credits:
 ##### special thanks to tahmid riyat
 
